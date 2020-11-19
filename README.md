@@ -1,4 +1,4 @@
-# Group Project 1 Submission
+# Group Project 1 Submission: Pocket Hedge Fund
 
 ## Group Members 
 
